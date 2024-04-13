@@ -5,6 +5,7 @@ Convert documentation websites into textbook-quality PDFs
 Right now, the project is in a very limited, early state. It can parse out a single page from a ReadTheDocs documentation website, and generate a typst document that contains headings and raw text in the section.
 
 Here are the features that are currently missing:
+
 parsing features
 
 -[ ] Support for code blocks
